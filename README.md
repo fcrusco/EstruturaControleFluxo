@@ -39,6 +39,7 @@ O projeto é uma única aplicação de console (`Console App`) onde cada exemplo
 
 
 
+# -------------------------------------------------------------------------------
 # C# Control Structures Examples
 
 This repository contains C# code examples for educational purposes, demonstrating fundamental control structures and programming logic.
@@ -80,6 +81,7 @@ The project is a single Console App where each example is commented out to facil
 
 
 
+# -------------------------------------------------------------------------------
 # Ejemplos de Estructuras de Control en C#
 
 Este repositorio contiene ejemplos de código en C# con fines didácticos, demostrando estructuras de control y lógica de programación fundamentales.
